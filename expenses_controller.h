@@ -7,7 +7,6 @@
 #include <QFile>
 #include <QTextStream>
 
-//#include <boost/tokenizer.hpp>
 class ExpensesController : public QObject
 {
     Q_OBJECT
